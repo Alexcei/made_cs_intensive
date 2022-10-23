@@ -1,3 +1,3 @@
-"""Module test"""
-print('Hello world')
+print()
+print('Hello world!')
 
